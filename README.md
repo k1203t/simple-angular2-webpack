@@ -15,5 +15,5 @@ $ npm install
 
 # start the server
 # http://localhost:8080
-$ npm serve
+$ npm start
 ```
