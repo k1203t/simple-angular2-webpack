@@ -14,5 +14,6 @@ $ cd simple-angular2-webpack
 $ npm install
 
 # start the server
-$ npm run serve
+# http://localhost:8080
+$ npm serve
 ```
